@@ -34,7 +34,7 @@ Guarda el script y tus archivos de gramática en la misma carpeta (o pasa rutas 
 ## Uso
 
 ```bash
-python epsilon_removal.py archivo1.txt [archivo2.txt ...]
+python lab7.py archivo1.txt [archivo2.txt ...]
 ```
 
 El programa:
