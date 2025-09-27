@@ -1,0 +1,5 @@
+S -> ADA | aC | Bd
+A -> a | ε
+B -> b | ε
+C -> AB | c
+D -> d
