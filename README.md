@@ -6,7 +6,7 @@
 - 23601 – Diego Ramirez 
 
 ## Video de los programas.
-[Ver en YouTube]()
+[Ver en video](https://uvggt-my.sharepoint.com/:v:/g/personal/ram23601_uvg_edu_gt/EeZ_g5kxSPhCsxzXXYCRbpcB8kXc2Mankb7bARTWQF-B7Q?e=CA4G8b&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 [Video del problema 3]()
 
 
@@ -34,7 +34,7 @@ Guarda el script y tus archivos de gramática en la misma carpeta (o pasa rutas 
 ## Uso
 
 ```bash
-python lab7.py archivo1.txt [archivo2.txt ...]
+python lab7.py gramatica1.txt [gramatica2.txt ...]
 ```
 
 El programa:
